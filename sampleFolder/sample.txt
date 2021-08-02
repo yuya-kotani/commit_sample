@@ -1,1 +1,3 @@
 txtfile
+
+Sample01作業で追加した行
