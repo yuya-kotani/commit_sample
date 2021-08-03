@@ -6,7 +6,7 @@ txtfile
 txtfile
 txtfile
 txtfile
-txtfile
+SELECT * FROM HOGE;;
 txtfile
 txtfile
 txtfile
